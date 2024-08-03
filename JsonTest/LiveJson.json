@@ -1,0 +1,320 @@
+{
+    "cabenitesData": [
+        {
+            "iD": 0,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 1,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 2,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 3,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 4,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 5,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 6,
+            "warningLightsOn": true
+        },
+        {
+            "iD": 7,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 8,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 9,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 10,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 11,
+            "warningLightsOn": true
+        },
+        {
+            "iD": 12,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 13,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 14,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 15,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 16,
+            "warningLightsOn": true
+        },
+        {
+            "iD": 17,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 18,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 19,
+            "warningLightsOn": true
+        },
+        {
+            "iD": 20,
+            "warningLightsOn": true
+        },
+        {
+            "iD": 21,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 22,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 23,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 24,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 25,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 26,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 27,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 28,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 29,
+            "warningLightsOn": true
+        },
+        {
+            "iD": 30,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 31,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 32,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 33,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 34,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 35,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 36,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 37,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 38,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 39,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 40,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 41,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 42,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 43,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 44,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 45,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 46,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 47,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 48,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 49,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 50,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 51,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 52,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 53,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 54,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 55,
+            "warningLightsOn": true
+        },
+        {
+            "iD": 56,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 57,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 58,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 59,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 60,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 61,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 62,
+            "warningLightsOn": true
+        },
+        {
+            "iD": 63,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 64,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 65,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 66,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 67,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 68,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 69,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 70,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 71,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 72,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 73,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 74,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 75,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 76,
+            "warningLightsOn": false
+        },
+        {
+            "iD": 77,
+            "warningLightsOn": true
+        },
+        {
+            "iD": 78,
+            "warningLightsOn": false
+        }
+    ]
+}
